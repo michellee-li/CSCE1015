@@ -6,3 +6,7 @@ ml1212
 
 ## Favorite Linux Command
 $htop
+## EUID
+ml1212
+## Favorite Linux Command
+htop
